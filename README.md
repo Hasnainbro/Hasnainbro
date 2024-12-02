@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently building skills on **LangChain & LLMs**
 
-- 🌱 I’m currently learning **ML & AI**
+- 🌱 I’m currently learning **AL ML**
 
 - 📫 How to reach me **hasnainkherani1@gmail.com**
 
